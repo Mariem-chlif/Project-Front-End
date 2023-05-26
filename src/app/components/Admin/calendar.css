@@ -1,0 +1,28 @@
+.rbc-month-view {
+       height: 100vh;
+}
+
+.rbc-calendar {
+       min-height: 580px;
+}
+.button {
+       margin-right: 87%;
+}
+
+.top_header_admin_list {
+       flex-direction: row;
+       width: 100%;
+       justify-content: space-between;
+}
+.top_header_admin_list span {
+       font-size: 34px;
+       font-weight: 400;
+}
+
+.fileter_admin_checkbox {
+       display: flex;
+       width: 100%;
+       justify-content: space-between;
+       flex-direction: row-reverse;
+       margin-bottom: 10px;
+}

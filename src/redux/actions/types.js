@@ -1,0 +1,11 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_PARAMS = 'GET_PARAMS';
+export const GET_ADMINS = 'GET_ADMINS';
+export const GET_PROJECT = 'GET_PROJECT';
+export const GET_SPRINT = 'GET_SPRINT';
+export const GET_USERS = 'GET_USERS';
+export const GET_PROJECT_WEB = 'GET_PROJECT_WEB';
+export const GET_PROJECT_MOBILE = 'GET_PROJECT_MOBILE';
+export const GET_USERS_WEB = 'GET_USERS_WEB';
+export const GET_USERS_MOBILE = 'GET_USERS_MOBILE';

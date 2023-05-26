@@ -1,0 +1,27 @@
+.btn_actions_calendar {
+       display: flex;
+       flex-direction: column-reverse;
+       gap: 10px;
+       margin-bottom: 15px;
+       align-items: flex-end;
+       .btn {
+              width: 220px;
+              color: #43a0e3;
+              border-radius: 5px;
+              border: 1px solid #43a0e3;
+              background-color: white;
+
+              &:hover {
+                     color: white;
+                     background-color: #43a0e3;
+              }
+       }
+       &.modal_action {
+              .btn {
+                     width: 210px;
+                     height: 45px;
+                     margin-top: 26px;
+                     margin-bottom: -20px;
+              }
+       }
+}

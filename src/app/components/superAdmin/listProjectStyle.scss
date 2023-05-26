@@ -1,0 +1,43 @@
+.modal_list_project {
+	.modal-dialog {
+		.modal-content {
+			left: -26%;
+			width: fit-content;
+			.modal-body {
+				width: 50em;
+				.add_project_modal {
+					.block_form {
+						display: flex;
+						flex-direction: row;
+						gap: 25px;
+					}
+					.spacer_div {
+						width: 50%;
+					}
+				}
+			}
+		}
+	}
+}
+
+.modal-evaluate-user {
+	.modal-dialog {
+		.modal-content {
+			left: -26%;
+			width: fit-content;
+			.modal-body {
+				width: 50em;
+				.add_project_modal {
+					.block_form {
+						display: flex;
+						flex-direction: row;
+						gap: 25px;
+					}
+					.spacer_div {
+						width: 50%;
+					}
+				}
+			}
+		}
+	}
+}
